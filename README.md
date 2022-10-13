@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Greyce Aparicio</h1>
 <h3 align="center">Focada em resolução de problemas</h3>
 
-- 🌱 Atualmente estou estudando **Business Intelligenc , SQL, ETL, DATASCIENCE**
+- 🌱 Atualmente estou estudando **Business Intelligenc , SQL, ETL, Data Science**
 - 💬 pergunte-me sobre **Transformação de dados para gerar informações/conhecimentos**
 - 📫 Como entrar em contato **greyce.engenharia@gmail.com**
 - 📄 Conheça minhas experiências [https://www .linkedin.com/in/greyce-analista-dados-jr/](https://www.linkedin.com/in/greyce-analista-dados-jr/)
